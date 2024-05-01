@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">StrokePrediction</string>
+    <string name="start">Get Started</string>
+    <string name="textviewname">Powered By Md. Jahirul lslam</string>
+    <string name="Test">
+        1.You are not free from stroke.\n
+        2.For Critical Condition consult with expert doctor.\n
+
+    </string>
+    <string name="Treatment">
+        Managing high blood pressure with medication.\n
+        Managing cholesterol levels:\n
+        •Rosuvastatin (Crestor) oral tablet.\n
+        Subsequent Management: if condition is very severe:\n
+        1.Tissue plasminogen activator (tPA) within 3 hours.\n
+        2. aspirin and clopidogrel.\n
+        Rehabilition Therapies :\n
+        1.Physical Therapy\n
+        2.Occupational Therapy\n
+        3.Behavioural Therapy
+    </string>
+
+    <string name="lifestyle">
+        1.Exercise : 30 mins/day, 5days/week in the morning.\n
+        2.Nutrition : A healthy nutritious diet that provides sufficient calories.\n
+        3.Healthy lifestyle: Leaving smoking and alcohol.\n
+        4.Diabetes Control
+
+
+    </string>
+</resources>
