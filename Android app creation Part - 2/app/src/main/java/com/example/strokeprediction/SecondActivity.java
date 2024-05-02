@@ -142,13 +142,13 @@ public class SecondActivity extends AppCompatActivity {
                 float worktype;
 
                 if ("Private".equals(value)) {
-                    worktype = 0;
-                } else if ("Self-employed".equals(value)) {
-                    worktype = 1;
-                } else if ("children".equals(value)) {
-                    worktype = 2;
-                } else if ("Govt_job".equals(value)) {
                     worktype = 3;
+                } else if ("Self-employed".equals(value)) {
+                    worktype = 2;
+                } else if ("children".equals(value)) {
+                    worktype = 0;
+                } else if ("Govt_job".equals(value)) {
+                    worktype = 1;
                 } else {
                     worktype = 4;
                 }
@@ -159,9 +159,9 @@ public class SecondActivity extends AppCompatActivity {
             public float convertTogender(String value) {
                 float gender;
 
-                if ("Male".equals(value)) {
+                if ("Female".equals(value)) {
                     gender = 0;
-                } else if ("Female".equals(value)) {
+                } else if ("Male".equals(value)) {
                     gender = 1;
                 }  else {
                     gender = 2;
