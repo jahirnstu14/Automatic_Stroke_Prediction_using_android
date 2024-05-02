@@ -1,7 +1,7 @@
 # Automatic_Stroke_Prediction_using_android
 
 ## Overview
-This project aims to develop an Android application for predicting the likelihood of stroke based on various health parameters. The prediction model is built using machine learning techniques, particularly artificial neural networks (ANN), and is deployed on the Android platform for user interaction.  
+This project is develop  for making android app  for predicting the likelihood of stroke based on various health parameters. The prediction model is built using machine learning techniques, particularly artificial neural networks (ANN), and is deployed on the Android platform for user interaction.  
 
 ![enter image description here](https://github.com/jahirnstu14/Automatic_Stroke_Prediction_using_android/blob/main/titlepic.jpg)
 
@@ -28,10 +28,14 @@ Once the model is trained and evaluated satisfactorily, it is converted into the
 
 ### Android App Development
 The Android application is developed using java  programming languages and integrated with the TFLite model for stroke prediction. The app provides a user-friendly interface for inputting health parameters and receiving predictions.
+## Start Page :  
+![Start Page : ](https://github.com/jahirnstu14/Automatic_Stroke_Prediction_using_android/blob/main/1.startPage.PNG)
 
-![Start Page : ](https://github.com/jahirnstu14/Automatic_Stroke_Prediction_using_android/blob/main/1.startPage.PNG)  
+## Input Taking Page : 
 
-![User Input 1 :](https://github.com/jahirnstu14/Automatic_Stroke_Prediction_using_android/blob/main/2.DataInput1.PNG)![User Input 2 :](https://github.com/jahirnstu14/Automatic_Stroke_Prediction_using_android/blob/main/2.DataInput2.PNG)  
+![User Input 1 :](https://github.com/jahirnstu14/Automatic_Stroke_Prediction_using_android/blob/main/2.DataInput1.PNG)![User Input 2 :](https://github.com/jahirnstu14/Automatic_Stroke_Prediction_using_android/blob/main/2.DataInput2.PNG) 
+
+## Status Page :
 
 ![Stroke Status ](https://github.com/jahirnstu14/Automatic_Stroke_Prediction_using_android/blob/main/3.Strokepatient%20suggestion.PNG)![enter image description here](https://github.com/jahirnstu14/Automatic_Stroke_Prediction_using_android/blob/main/4.nonstrokepatientstaus.PNG)
 
